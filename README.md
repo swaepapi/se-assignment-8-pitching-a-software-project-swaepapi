@@ -11,19 +11,19 @@ Answer the following questions based on your understanding of how to pitch a sof
    - Why is it important to understand your audience when pitching a software project? How can you tailor your pitch to different types of stakeholders (e.g., investors, technical team, customers)?
     The key reasons why understanding your audience is critical when pitching a software project are:
 
-1. Tailoring the content and messaging: 
+ Tailoring the content and messaging: 
 - Different audiences will have varying levels of technical expertise and familiarity with the subject matter. You need to adjust the depth and complexity of the information accordingly.
 - For example, when pitching to investors, you would focus more on the market opportunity, business model, and financial projections. When pitching to the technical team, you would dive deeper into the technical details, architecture, and implementation approach.
 
-2. Addressing their specific needs and pain points: 
+ Addressing their specific needs and pain points: 
 - Each stakeholder group will have different goals, challenges, and priorities that you need to address in your pitch.
 - Investors care about the commercial viability and growth potential. The technical team cares about the technical feasibility and ability to deliver. Customers care about how the solution solves their problems.
 
-3. Adjusting the presentation style and format: 
+ Adjusting the presentation style and format: 
 - The length, level of formality, use of visuals, and overall delivery of the pitch should be tailored to what works best for each audience.
 - For example, an elevator pitch to investors may be 2-5 minutes with high-level highlights, while a pitch to the technical team could be 10-20 minutes with a more detailed product demo. 
 
-4. Building credibility and trust: 
+ Building credibility and trust: 
 - By showing you understand the audience's perspective and needs, you demonstrate your ability to communicate effectively and build a connection.
 - This helps establish your credibility and makes the audience more receptive to your proposal.
 
